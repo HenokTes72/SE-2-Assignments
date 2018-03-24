@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\XeroFolderLocker\XeroFolderLocker\bin\Debug\XeroFolderLocker.exe.config
+C:\Users\User\source\repos\XeroFolderLocker\XeroFolderLocker\bin\Debug\XeroFolderLocker.exe
+C:\Users\User\source\repos\XeroFolderLocker\XeroFolderLocker\bin\Debug\XeroFolderLocker.pdb
+C:\Users\User\source\repos\XeroFolderLocker\XeroFolderLocker\obj\Debug\XeroFolderLocker.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\XeroFolderLocker\XeroFolderLocker\obj\Debug\XeroFolderLocker.frmHome.resources
+C:\Users\User\source\repos\XeroFolderLocker\XeroFolderLocker\obj\Debug\XeroFolderLocker.Properties.Resources.resources
+C:\Users\User\source\repos\XeroFolderLocker\XeroFolderLocker\obj\Debug\XeroFolderLocker.csproj.GenerateResource.Cache
+C:\Users\User\source\repos\XeroFolderLocker\XeroFolderLocker\obj\Debug\XeroFolderLocker.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\XeroFolderLocker\XeroFolderLocker\obj\Debug\XeroFolderLocker.exe
+C:\Users\User\source\repos\XeroFolderLocker\XeroFolderLocker\obj\Debug\XeroFolderLocker.pdb
+C:\Users\User\source\repos\XeroFolderLocker\XeroFolderLocker\obj\Debug\XeroFolderLocker.About.resources
+C:\Users\User\source\repos\XeroFolderLocker\XeroFolderLocker\obj\Debug\XeroFolderLocker.ChangePassword.resources

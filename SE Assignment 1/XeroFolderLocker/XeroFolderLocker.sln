@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XeroFolderLocker", "XeroFolderLocker\XeroFolderLocker.csproj", "{14A3AE53-C5BD-46E0-8CC7-85A2BBC82967}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14A3AE53-C5BD-46E0-8CC7-85A2BBC82967}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14A3AE53-C5BD-46E0-8CC7-85A2BBC82967}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14A3AE53-C5BD-46E0-8CC7-85A2BBC82967}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14A3AE53-C5BD-46E0-8CC7-85A2BBC82967}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F67BDB67-C2C1-491F-B907-01CCC54A1DFB}
+	EndGlobalSection
+EndGlobal

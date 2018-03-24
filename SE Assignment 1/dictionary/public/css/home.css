@@ -1,0 +1,93 @@
+@media(max-width :480px) {
+    #root {
+        width: 100% !important;
+        margin-top: 0% !important;
+    }
+}
+
+p {
+    color: white;
+}
+
+p.p {
+    color: black;
+}
+
+.mnav-ul {
+    margin-left: 70%;
+}
+
+body {
+    background: url("../images/book2.jpg") no-repeat;
+}
+
+footer {
+    height: 100px;
+    background-color: #212529;
+}
+
+.foot {
+    height: 100%;
+    width: 200px;
+    margin-left: 40%;
+}
+
+.foot p {
+    padding-top: 40px;
+}
+
+#root {
+    box-shadow: 1px 1px 1px 1px rgb(58, 80, 80);
+    border-radius: 4px 4px;
+    margin-top: 10%;
+    width: 450px;
+    height: 370px;
+    background-color: rgba(179, 179, 179, 0.5);
+}
+
+.group1 {
+    padding-top: 50px;
+}
+
+.group3 {
+    padding-top: 20px;
+}
+
+.group2 {
+    padding-bottom: 30px;
+}
+
+span.output {
+    display: block;
+    padding-bottom: 15px;
+}
+
+h6.h6 {
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: rgb(9, 9, 0);
+}
+
+input.reg-user-name {
+    border-bottom-right-radius: 0em !important;
+    border-bottom-left-radius: 0em !important;
+}
+
+.list-group-item:first-child {
+    border-top-left-radius: 0em !important;
+    border-top-right-radius: 0em !important;
+}
+
+.card {
+    border: 0px solid red;
+    margin-top: 50px;
+}
+
+.edit-group1 {
+    margin-bottom: 0em !important;
+}
+
+.edit-list-group {
+    margin-bottom: 1em;
+}
