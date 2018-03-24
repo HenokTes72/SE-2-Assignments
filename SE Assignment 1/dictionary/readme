@@ -1,0 +1,22 @@
+Dictionary (client-server)
+---------
+a client server archtecture based application that allows users to add thier words to 
+the dictionary.
+
+functionalities
+--------------
+-register user
+-login
+-add word
+-search word
+
+platform to devlop the applications
+-----------------------------------
+node.js
+
+
+ _________________________________  
+| Name Henok Tesfaye		          |
+|  Id   ATR/2487/08		            |
+|  Software engineering section 2 |
+|_________________________________|
