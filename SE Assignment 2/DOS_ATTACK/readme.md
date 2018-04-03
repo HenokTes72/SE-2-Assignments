@@ -11,6 +11,12 @@ ___
 ##### 2,The server must accept unkown requests
 
 -------------------
+
+#### Run DOS
+###### 1,start the server
+###### 2,open dos.html
+###### 3,click "start DOS" button
+
 Name: Henok Tesfaye
 Id:   ATR/2487/08
 Software(R) section 2
