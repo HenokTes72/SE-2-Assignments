@@ -1,0 +1,1 @@
+compile both rectangle and rectangleMain together.
