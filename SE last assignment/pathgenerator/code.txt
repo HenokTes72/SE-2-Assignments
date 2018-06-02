@@ -1,0 +1,23 @@
+int calculate(int length,int width){
+	int z = length + width;
+	if(length < width){
+		printf("width is greater than length");
+		if(length == 5){
+			printf("length is equal to 5");
+		}
+		else{
+			printf("length is not 5");
+		}
+	}
+	else{
+		printf("width is less or equal to length");
+	}
+	int area = length*width;
+	if(area > 12){
+		printf("Area is larger than dozen");
+	}
+	else{
+		printf("Area is small or equal to dozen");
+	}
+	return area;
+}
