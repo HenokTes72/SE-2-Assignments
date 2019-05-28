@@ -13,14 +13,13 @@
     <script>
         var serverName = "";
         var portNum = 0;
-        var path = "";
 
         $(document).ready(function () {
             $("#but").click(sendRequest);
         })
 
         function requestHandler() {
-            $.get("http://"+serverName+":"+portNum+"/"+path,function (data, status) {
+            $.get("http://"+serverName+":"+portNum+"/dos",function (data, status) {
                 if (status == "success") {
                     console.log(data);
                 }
@@ -30,7 +29,6 @@
         function sendRequest() {
             serverName = prompt("Enter your server name: ");
             portNum = parseInt(prompt("Enter port number: "));
-            path = prompt("Enter the path: ");
             if(serverName != "" && portNum != ""){
                 setInterval(requestHandler, 0.0001);
             }
