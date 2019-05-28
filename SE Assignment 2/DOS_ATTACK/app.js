@@ -9,9 +9,6 @@ function isPrime(num){
 }
 
 app.use(express.static('public'));
-//  app.use(user);
-//  app.use(word);
-
 
 var counter = 1 ;
 
