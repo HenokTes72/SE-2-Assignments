@@ -13,7 +13,7 @@ app.use(express.static('public'));
 var counter = 1 ;
 
 
-app.get("/chkPrime", function(req, res) {
+app.get("/dos", function(req, res) {
     res.header("Access-Control-Allow-Origin", "*");
     
     var num = binaryToDecimalConverter(bitGenerator(23))+(counter*10000);
