@@ -13,7 +13,7 @@ ___
 -------------------
 
 #### Run DOS
-###### 1,start the server
+###### 1,start the server(node app.js)
 ###### 2,open dos.html
 ###### 3,click "start DOS" button
 
