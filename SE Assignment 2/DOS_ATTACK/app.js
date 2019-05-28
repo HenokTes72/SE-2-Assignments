@@ -1,7 +1,5 @@
 var express = require('express');
 var app = express();
-var user = require('./public/js/users');
-var word = require('./public/js/words');
 var portNumber = 5000;
 
 function isPrime(num){
